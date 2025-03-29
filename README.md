@@ -1,5 +1,3 @@
-
-3/28/25-Reverted back
 3/28/25-Added a picture and quote.
 3/27/25-Making a change to download from GitHub.
 # Getting Started with Create React App
