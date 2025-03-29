@@ -56,3 +56,17 @@
   font-size: 14px;
   margin: 0;
 }
+
+.img-align {
+  position: fixed; /*stays in top left corner*/
+  top: 40px;
+  left: 40px;
+  margin: 0; 
+}
+
+.img-aligntop {
+  position: fixed; /*stays in top left corner*/
+  top: 10px;
+  left: 40px;
+  margin: 0; 
+}
